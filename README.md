@@ -1,3 +1,7 @@
-Привет, этот бот создан для твоего дискорд сервера. Он создаёт команду /report, которая уведомляет определенную роль о нарушении.
+Rus:
+Привет.Это кол бота, который создаёт команду /report, которая отвечает за нарушение.
+Если берёшь код, то вместо цифр ограниченных <> вставь id роли, которую надо пинговать.
 
-Hello, this bot was created for your discord server. It creates a command/report that notifies a specific role about the violation.
+Eng:
+Hello. This is a bot call that creates the /report command, which is responsible for the violation.
+If you take the code, then instead of the limited numbers <> insert the id of the role that needs to be pinged.
