@@ -1,7 +1,7 @@
 Rus:
-Привет.Это кол бота, который создаёт команду /report, которая отвечает за нарушение.
+Привет.Это код бота, который создаёт команду /report, которая отвечает за нарушение.
 Если берёшь код, то не забудь вместо <@&id_role> вставить id своей роли, которую надо пинговать.
 
 Eng:
-Hello. This is a bot call that creates the /report command, which is responsible for the violation.
+Hello. This is a bot code that creates the /report command, which is responsible for the violation.
 If you take the code, then instead of the limited numbers <> insert the id of the role that needs to be pinged.
