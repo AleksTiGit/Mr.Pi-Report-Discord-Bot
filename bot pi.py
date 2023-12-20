@@ -12,7 +12,7 @@ slash = InteractionClient(bot)
 
 @slash.command(name='report', description='Подать жалобу.')
 async def report(ctx):
-    await ctx.send('<@&1186353669122297867> примите меры')
+    await ctx.send('<@&id_role> примите меры')
 
 @bot.event
 async def on_ready():
