@@ -1,4 +1,3 @@
-import os
 from discord.ext import commands
 from dislash import InteractionClient
 import discord
@@ -18,4 +17,4 @@ async def report(ctx):
 async def on_ready():
     print(f'Bot is online: {bot.user}')
 
-bot.run(os.getenv("token"))
+bot.run("token")
